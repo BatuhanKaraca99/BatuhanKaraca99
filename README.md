@@ -1,5 +1,5 @@
 👋 Hi, I’m @BatuhanKaraca99<br />
-👀 I’m interested in Game development<br />
+👀 I’m interested in Game Development<br />
 🌱 I’m currently learning Unity<br />
 📫 How to reach me https://www.linkedin.com/in/b47uh4n <br />
 
